@@ -1,3 +1,3 @@
-# MMDVM2HMI DMR 1TS / PISTAR software 
+# MMDVM2HMI hardware & software 
 (f5swb@hotmail.com 2021).<br/>
 mailto:mmdvm2hmi+subscribe@groups.io
